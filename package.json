@@ -33,7 +33,7 @@
   },
   "homepage": "http://y-js.org",
   "dependencies": {
-    "minimist": "^1.2.0",
+    "minimist": "^1.2.5",
     "redis": "^2.8.0",
     "socket.io": "^2.0.3",
     "y-redis": "0.0.4",
