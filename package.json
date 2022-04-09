@@ -36,7 +36,7 @@
     "minimist": "^1.2.0",
     "redis": "^2.8.0",
     "socket.io": "^2.0.3",
-    "y-redis": "0.0.4",
+    "y-redis": "0.0.8",
     "yjs": "^13.0.0-51"
   },
   "devDependencies": {
